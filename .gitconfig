@@ -1,0 +1,5 @@
+[user]
+  name = us
+  email = 123@qwe.com
+[core]
+  excludes   file = D:\desk\useless\git_text\.gitignore
