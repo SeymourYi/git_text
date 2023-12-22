@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity", "onCreate: hello git_text4");
         Log.d("MainActivity", "onCreate: mast text");
 
+        Log.d("MainActivity", "onCreate: hot_fix4");
+
     }
 }
