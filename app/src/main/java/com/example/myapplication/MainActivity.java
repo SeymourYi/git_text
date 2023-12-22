@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity", "onCreate: 这是测试文件");
         //测试文件
         Log.d("MainActivity", "onCreate: hello git_text4");
+        Log.d("MainActivity", "onCreate: mast text");
+
     }
 }
