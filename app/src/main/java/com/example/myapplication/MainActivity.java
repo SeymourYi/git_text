@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("MainActivity", "onCreate: hot_fix4");
         Log.d("MainActivity", "onCreate: push_commit");
+        Log.d("MainActivity", "onCreate: pull_text");
+        
 
     }
 }
